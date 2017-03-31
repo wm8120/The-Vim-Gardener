@@ -191,6 +191,7 @@ else
     exec "hi Directory      cterm=NONE   ctermfg=64    ctermbg=NONE"
 
     exec "hi IncSearch      cterm=NONE   ctermfg=255   ctermbg=25"
+    exec "hi Search         cterm=NONE   ctermfg=255   ctermbg=25"
 
     exec "hi ErrorMsg       cterm=BOLD   ctermfg=196   ctermbg=NONE"
     exec "hi WarningMsg     cterm=BOLD   ctermfg=196   ctermbg=NONE"
